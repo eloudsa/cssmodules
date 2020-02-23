@@ -21,7 +21,7 @@
   margin-top: 30px;
 }
 
-.materialIcons {
+.projectAdditional .materialIcons {
   font-family: 'Material Icons';
   font-weight: normal;
   font-style: normal;
@@ -29,4 +29,24 @@
   color: grey;
   margin-top: 13px;
   margin-right: 9px;
+}
+
+.materialIcons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  color: red;
+  margin-top: 13px;
+  margin-right: 9px;
+}
+
+.column:nth-child(3) li {
+  color: blueviolet;
+  font-weight: 600;
+}
+
+.noBullet {
+  list-style: none;
+  margin: '-10px 0 0 0';
 }

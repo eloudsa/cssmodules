@@ -16,3 +16,17 @@
   top: 4px;
   margin-right: 9px;
 }
+
+.projectAdditional {
+  margin-top: 30px;
+}
+
+.materialIcons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 30px;
+  color: red;
+  margin-top: 13px;
+  margin-right: 9px;
+}
