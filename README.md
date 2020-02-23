@@ -4,6 +4,8 @@ This sample app contains two components and their css module file.
 
 You can alter each component's stylesheet without impact the other.
 
+This sample is based from: https://programmingwithmosh.com/react/css-modules-react/
+
 More information about CSS Modules in React: https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/
 
 ## Clone the repo
